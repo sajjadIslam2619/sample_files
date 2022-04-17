@@ -1,0 +1,202 @@
+	sentence	label
+0	The electrocardiogram showed normal sinus rhythm with [entity] old Q wave inferior myocardial infarction [entity] .	present
+1	6. Type 1 diabetes mellitus with triopathy , [entity] retinopathy [entity] , neuropathy , nephropathy .	present
+2	46 - yo-man w/ cocaine abuse presents w/ [entity] LE edema [entity] and DOE likely from diastolic heart failure in the setting of cocaine use complicated by hypertensive urgency .	present
+3	He was told to return to the emergency department if he had any chest pain , pressure , [entity] difficulty breathing [entity] , nausea , light-headiness or dizziness .	not-present
+4	Gastroenterology was consulted and they recommended Protonix and felt it was due to [entity] peptic ulcer disease [entity] .	not-present
+5	The patient has no [entity] known drug allergies [entity] .	not-present
+6	Diagnosis peritoneum lavage times two was negative for any signs of [entity] intra-abdominal bleeding [entity] .	not-present
+7	He son also notes that she appeared to be [entity] working hard to breath [entity] .	present
+8	The patient has [entity] a poor nutritional status [entity] with hypoalbuminemia .	present
+9	Atrioseptal defect repair in 1970 , cardiomyopathy , right-sided congestive heart failure , pulmonary hypertension , history of atrial fibrillation and atrial flutter , history of [entity] prostate cancer [entity] , status post brachytherapy , history of rectal bleeding , obstructive sleep apnea on CPAP .	present
+10	[entity] Right capsular putamenal hemorrhage [entity] .	present
+11	NSR at 62 , nl axis , nl intervals , [entity] Q waves in III [entity] , avR , V1 .	present
+12	[entity] MVI [entity] , Cardiac diet	present
+13	A swan was placed for a more accurate picture of his volume status and he was [entity] volume overloaded [entity] by swan numbers with an elevated PAD and elevated CVP without an obtainable wedge pressure .	present
+14	Upon transfer to the CMED CCU the patient appears somewhat uncomfortable , reporting nausea and [entity] abdominal pain [entity] , but when questioned he was unable / unwilling to participate in HPI or exam d/t sleepiness .	present
+15	It was felt that the patient &apos;s extensive pulmonary metastases and [entity] bilateral pleural effusions [entity] resulted in increased work of respiration and a sensation of shortness of breath .	present
+16	1. History of [entity] high cholesterol [entity] .	present
+17	She was not felt to be [entity] acutely suicidal [entity] or otherwise in need of acute psychiatric treatment .	not-present
+18	4. guiac pos stool : Given the patient 's sx of [entity] GERD [entity] , current PO steroid regimen , and ASA for her stents , the ddx for her guiac positive stools would include gastritis / gastric ulcer in addition to lower GI pathology .	present
+19	Extremities reveal the right lower extremity was tense , purple-red , swollen , and was warm from the knee to the ankle and [entity] extremely tender [entity] .	present
+20	You are to return to the hospital immediately if you should experience any chest pain , [entity] shortness of breath [entity] , fevers or any other worrisome symptom .	not-present
+21	The right calf site had [entity] minimal ooze [entity] and no hematomas or bruits .	present
+22	Sigmoid diverticulosis with focal narrowing of the sigmoid colon just distal to the dilatation with [entity] wall thickening [entity] , due to diverticulitis .	present
+23	She had [entity] bilateral upgoing toes [entity] .	present
+24	[entity] The organism [entity] grown at this institution was sensitive to Imipenem , Ceftazidime , Amikacin , gentamicin , Ciprofloxacin , Tobramycin but was resistant to Cefotetan , Ceftriaxone , Mezlocillin , Bactrim , Ampicillin , chloramphenicol , and sulbactam .	present
+25	This 85 year old man was admitted because of the new onset of [entity] focal left-sided seizure [entity] and unresponsiveness .	present
+26	normal pulses , no clubbing , cyanosis or [entity] edema [entity] .	not-present
+27	Ms. Tlandkotesmitskote is a patient who came complaining of feeling [entity] dizzy [entity] and bumping into objects on her left side .	present
+28	Wife reports that the patient has a history of [entity] lethargy [entity] and confusion , similar to the symptoms for which the patient was recently admitted .	present
+29	On physical exam today , the patient did not have any swelling , and he states that he did not feel [entity] the swelling [entity] was present .	not-present
+30	Abdomen non-distended , positive bowel sounds , soft , [entity] non-tender [entity] , no hepatosplenomegaly or masses .	not-present
+31	Gram stain and culture of [entity] the ascites [entity] failed to identify any organism .	present
+32	The patient was evaluated by the Surgical Service who felt that the wound was clean with [entity] some erythema [entity] but without evidence of true cellulitis .	present
+33	The patient was given printed instructions for sprains , [entity] fractures [entity] and bruises ( English ) .	present
+34	In general the patient was in no [entity] acute distress [entity] , afebrile , vital signs stable .	not-present
+35	He was transferred to Fairm of Ijordcompmac Hospital , where [entity] seizures [entity] were stopped with 2 mg of Ativan .	present
+36	He has no bleeding or [entity] clotting problems [entity] .	not-present
+37	Neuro : MAE , Follows commands , [entity] slightly confused [entity]	present
+38	He was fed with a bottle occasionally by his dad and had a vigorous suck and was noted to have [entity] some discoordination of his suck [entity] while breathing at the initial onset of feeding time .	present
+39	Nitroglycerin 1 tablet sublingual q. 5 minutes X3 p.r.n. [entity] chest pain [entity] .	not-present
+40	Her temperature was 100.4 in the office , and she had no [entity] chills [entity] .	not-present
+41	Skin examination was notable for a leg ulcer and [entity] cellulitis [entity] to be delineated below .	present
+42	4. History of esophageal erosion , [entity] MW tear [entity]	present
+43	Chronic lymphocytic thyroiditis , status post right total and left subtotal oophorectomy , asthma , migraine , history of [entity] Droperidol allergy [entity] .	not-present
+44	likely [entity] recently passed kidney stone [entity]	not-present
+45	No [entity] hip click [entity] .	not-present
+46	There was no [entity] egophony [entity] .	not-present
+47	She has [entity] difficulty with shoes and socks and foot care [entity] .	present
+48	Chest CT showed [entity] bibasilar diffuse infiltrates [entity] , PCP was negative .	present
+49	1. [entity] Small cirrhotic liver [entity] with what appears to be a portocaval shunt .	present
+50	The chest pain persisted afterwards and a relook catheterization was performed that revealed no [entity] occlusions [entity] .	not-present
+51	In ER c/o dyspnea and was noted to have [entity] mental status changes [entity] .	present
+52	[entity] The pain [entity] is worsened with deep inspiration or movement .	not-present
+53	At Vencor Hospital , [entity] BP dropped [entity] to 90 , and patient was started on NS IVF , with improvement in BP .	present
+54	This is an 82 - year-old male with a history of prior tobacco use , hypertension , chronic renal insufficiency , COPD , gastritis , and TIA who initially presented to Braintree with [entity] a non-ST elevation MI [entity] and Guaiac positive stools , transferred to St. Margaret's Center for Women & Infants for cardiac catheterization with PTCA to mid LAD lesion complicated by hypotension and bradycardia requiring Atropine , IV fluids and transient dopamine possibly secondary to vagal reaction , subsequently transferred to CCU for close monitoring , hemodynamically stable at the time of admission to the CCU .	present
+55	General : [entity] sleepy [entity] , arouses to voice but limited participation with physical exam	present
+56	She is without bruits or [entity] JVD [entity] .	not-present
+57	The patient &apos;s penile ulcer was cultured and grew [entity] positive herpes simplex virus [entity] and the patient was started on Acyclovir .	present
+58	He denied [entity] CP [entity] , SOB , HA , vision changes , neck stiffness , dysuria , or other symptoms .	not-present
+59	Ext : Cool , 1 + pedal pulses , - varicosities , - [entity] edema [entity]	not-present
+60	Take with food PRENATAL MULTIVITAMINS ( STUARTNATAL ) 1 TAB PO QD MAALOX-TABLETS QUICK DISSOLVE / CHEWABLE 1-2 TAB PO Q6H PRN [entity] Upset Stomach [entity]	not-present
+61	The patient urinalysis on 10/19/97 showed [entity] moderate occult blood [entity] , pH 5 , albumin 1+ , white blood cells present , 2-50 red blood cell , 10-20 white blood cells , few bacteria , and moderate bladder epithelial cells .	present
+62	She continued to put out [entity] low amounts of urine [entity] throughout the admission , despite aggressive diuresis with IV lasix gtt and boluses .	present
+63	The lung apices are clear without [entity] pneumothorax [entity] .	not-present
+64	3. [entity] Pyelonephritis [entity] .	present
+65	46 - yo-man w/ cocaine abuse presents w/ LE edema and DOE likely from diastolic heart failure in the setting of cocaine use complicated by [entity] hypertensive urgency [entity] .	present
+66	2. [entity] Multifocal hemorrhagic contusions [entity] and surrounding edema are largely unchanged .	present
+67	1. Markedly dilated colon throughout ascending , transverse , and descending colon with [entity] air-fluid levels [entity] , overall unchanged since prior study performed on the same day with pneumatosis in the ascending colon .	present
+68	The patient was [entity] afebrile [entity] .	not-present
+69	NO [entity] KNOWN DRUG ALLERGIES [entity] .	not-present
+70	It was felt that he may have had some component of [entity] vascular congestion [entity] from his congestive heart failure as well as possibly some mild cirrhotic changes secondary to his previous alcohol use .	present
+71	The electrocardiogram showed atrial fibrillation with slow ventricular response and digitalis effect as well as [entity] left ventricular hypertrophy [entity] .	present
+72	At Erich Lindemann Mental Health Center she was discovered to have [entity] ARF [entity] , a large pericardial effusion , and bilateral pleural effusions .	present
+73	3. [entity] diarrhea [entity] : The patient has been having loose stools at night and was guiac pos x 2 .	present
+74	On admission , the patient was noted to have elevated bilirubins in the 3 range and [entity] mildly elevated alkaline phosphatase [entity] consistent with a cholestatic picture .	present
+75	Prominent sutures in this young patient , the right calvarial suture extending into the right temporal bones appears more prominent than its counterpart on the left , however , does not appear to represent [entity] an acute fracture [entity] .	not-present
+76	COPD ( chronic obstructive pulmonary disease ) DM [entity] cervical DJD [entity] ( ) iron deficiency anemia ( iron deficiency anemia ) cervical and lumbar djd ( 12 ) osa ( sleep apnea ) s / p tb treatment ( 5 )	present
+77	A Hepatology consult was obtained who felt that the most likely etiology of these cysts were from [entity] hepatic candidiasis [entity] , although one could not rule out lymphoma involving from Burkitt's .	not-present
+78	She was noted to have mild cataracts , possibly due to chronic steroids , as well as [entity] a subtle temporal disc pallor OD [entity] , possibly due to previous episode of optic neuritis .	present
+79	Monitor wounds for [entity] infection [entity] - redness , drainage , or increased pain	not-present
+80	[entity] Gastritis [entity] .	present
+81	41 yo man with CRFs of DM Type II , high cholesterol , smoking history , family hx , [entity] HTN [entity] p / w episodes of atypical CP x 1 week , with rest and exertion .	present
+82	Review of systems was significant for [entity] progressive abdominal discomfort [entity] , decreased oral intake , and weakness in the past nine weeks .	present
+83	Abdominal examination revealed that the abdomen was soft , [entity] non-tender [entity] , non-distended , no organomegaly , no masses , normal active bowel sounds .	not-present
+84	No evidence of [entity] immediate hardware complication [entity] .	not-present
+85	Her hearing got [entity] progressively worse [entity] and the sound of static increased .	present
+86	He denied ever having [entity] any chest pain [entity] , chest pressure , shortness of breath , dyspnea on exertion and he was discharged to home .	not-present
+87	He gets [entity] cold [entity] easily but denies fevers .	present
+88	In TSICU , developed [entity] MRSA pneumonia [entity] with question of aspiration , treated Zosyn --> vanc / levo --> then 2 week course of Linazolid with resolution of fevers and decreased pulmonary secretions .	present
+89	Apparently once his pain was free , his EKG was noted to have [entity] hyperacute T-wave anteriorly [entity] without progression .	present
+90	She was given a lasix drip IV upon call-out of the ICU , and additional boluses of IV lasix , 200 mg then 300 mg IV were given with a good response , however , she remained [entity] net positive fluid balance [entity] .	present
+91	60 yo M with [entity] exertional angina [entity] -> positive ETT -> cath with severe 3VD	not-present
+92	CIWA scale over night was 1 for tremor and the patient did not require any Valium for [entity] alcohol withdrawal [entity] .	not-present
+93	Renal Failure : creatinine on admission was 1.6 Likely [entity] acute hypertensive nephropathy [entity] plus probalbe long-standing hypertensive disease .	present
+94	No palpitations , history of epigastric pain and [entity] body weight loss [entity] .	present
+95	Coumadin has caused [entity] bleeding from the mouth and nose [entity] on two occasions , on one occasion with prothrombin time 13 , and has been replaced by anti-platelet agents .	not-present
+96	Heart initially [entity] tachycardia [entity] , grade II / VI systolic ejection murmur at the left sternal border .	present
+97	Electrocardiogram showed atrial fibrillation with rapid ventricular response and [entity] atrial flutter [entity] .	present
+98	Her speech became slurred , this was followed a few seconds after by [entity] weakness and numbness of her arm and leg [entity] .	present
+99	The patient became hypotensive into the 70 s without [entity] any symptoms [entity] .	not-present
+100	The patient has a known history of [entity] pancreatic adenocarcinoma [entity] .	present
+101	3. Cholelithiasis without evidence of [entity] acute cholecystitis [entity] .	not-present
+102	The area of erythema on her left leg enlarged slightly and the patient was placed on Vancomycin for several days after which time [entity] her erythema [entity] again began to decrease .	present
+103	9. Vistaril 50 mg once a day as needed for [entity] nausea [entity] .	not-present
+104	She has also had [entity] intermittent post-prandial nausea / satiety [entity] for which she had been scheduled for an outpt EGD with GI on 2/8 .	present
+105	Please call the surgeon or return to the Emergency Department if you develop chest pain , shortness of breath , fever greater than 101.5 , foul smelling or colorful drainage from your incisions , redness or swelling , [entity] severe abdominal pain [entity] or distention , persistent nausea or vomiting , inability to eat or drink , or any	not-present
+106	The psychiatrist also noted the indifference the patient evinced regarding [entity] her own symptomatology [entity] .	present
+107	Nontender , [entity] nondistended [entity] .	not-present
+108	An abdominal and pelvic CT scan with IV contrast revealed bilateral pulmonary nodules and [entity] bilateral pleural effusions [entity] , extensive liver metastases , narrowing of the intra hepatic IVC and distention of the azygous system suggestive of IVC obstruction by liver metastases ; ascites ; multiple bony metastases ; and an isolated splenic metastases .	present
+109	PMH : [entity] HTN [entity] , Renal calculi , sleep apnea ,	present
+110	Because of [entity] his confusion [entity] , a neurology consult was obtained and subsequent radiographic imaging revealed chronic appearing infarcts in the right occipital lobe as well as both cerebellar hemispheres , suggestive of more chronic infarcts , as well as an area in the left corona radiata , adjacent to the left lateral ventricle which may or may not be an acute infarct .	present
+111	The patient was admitted for [entity] her gait disorder [entity] with other notable findings on examination including anisocoria , which , by the patient &apos;s report , had been noted several months earlier .	present
+112	[entity] Very small circumferential pericardial effusion [entity] .	present
+113	"That evening , the patient again developed abdominal pain "" like his pancreatitis "" with nausea and [entity] vomiting [entity] , for which he was admitted to the Rehab Hospital of the Cape & Islands Hospital ."	present
+114	Left upper extremity examination demonstrated no [entity] gross deformities [entity] , tenderness to palpation in the mid forearm , intact motor function in the median , radial , and ulnar nerve distributions , intact sensation to light touch in the median and radial nerve distributions , decreased sensation in the ulnar-nerve distribution , warm and well perfused limb with 2+ radial pulses .	not-present
+115	She was given Flagyl for presumed [entity] C. Diff. Colitis [entity] , however this was stopped when C. Diff B toxin came back negative on 2019-01-10 .	not-present
+116	At the time of presentation the patient denied headache , [entity] arm weakness [entity] , changes in vision , dysarthria , abdominal pain , nausea or vomiting , chest pain or shortness of breath .	not-present
+117	6. [entity] right cheek basal cell carcinoma [entity] ,	present
+118	There was evidence of possible [entity] aspiration pneumonia [entity] on CXR , though he was extubated without incident on the AM of transfer to the medicine floor .	not-present
+119	2. Hx of [entity] multiple port-o-cath clots [entity] :	present
+120	He was initially admitted to CMED for resection and repair of [entity] this left facial lesion [entity] .	present
+121	Degenerative changes including [entity] multilevel central spinal stenosis [entity] .	present
+122	The results of this study indicated that this structure at the head of his pancreas is most likely a forming pseudocyst ; however , the suspicion of malignancy is still possible and the patient underwent an ultrasound guided biopsy of [entity] this mass [entity] on 2011-01-20 .	present
+123	This revealed [entity] some supraglottic edema [entity] which revealed with time , without further intervention .	present
+124	Patient recorded as having No [entity] Known Allergies [entity] to Drugs	not-present
+125	EXT : L leg/calf swollen , + Johnson sign , not tense , no cord palpable , L knee w/ [entity] medial meniscus area inflammed [entity] , not warm , no crepitus , feet-2+DP pulses b/l	present
+126	No [entity] palmar erythema [entity]	not-present
+127	In the setting of [entity] her ongoing pericardial effusion [entity] , she was transferred for closer observation to the CCU .	present
+128	Over the next 12 hours while in transit to the hospital , the patient &apos;s right lower extremity became red , swollen , and [entity] increasingly painful [entity] .	present
+129	No [entity] CVA tenderness [entity] .	not-present
+130	The patient was noted to have [entity] trace aortic regurgitation [entity] .	present
+131	An abdominal and pelvic CT scan with IV contrast revealed [entity] bilateral pulmonary nodules [entity] and bilateral pleural effusions , extensive liver metastases , narrowing of the intra hepatic IVC and distention of the azygous system suggestive of IVC obstruction by liver metastases ; ascites ; multiple bony metastases ; and an isolated splenic metastases .	present
+132	Abdomen : [entity] Slightly distended [entity] , nontender .	present
+133	Tonsillectomy in 1947 , removal of [entity] a renal calculus [entity] in 1979 , cholecystectomy in 1986 .	present
+134	Pelvic exam revealed normal vulva , vagina normal , cervix normal , uterus anteverted , small , [entity] nontender [entity] .	not-present
+135	Upon further review of Dr. Laymie Fields , Department of Neuroradiology , review of the cervical spine on CT reveals no extrinsic compressive lesions impacting the spinal cord and no [entity] enhancing lesions of the spinal cord [entity] with contrast .	not-present
+136	Her abdomen was notable for [entity] voluntary guarding [entity] but no involuntary guarding or rebound , mild right lower quadrant tenderness greater than left lower quadrant , nondistended .	present
+137	41 yo man with CRFs of DM Type II , [entity] high cholesterol [entity] , smoking history , family hx , HTN p / w episodes of atypical CP x 1 week , with rest and exertion .	present
+138	He denies diaphoresis or [entity] nausea [entity] .	not-present
+139	The patient does not recollect what [entity] her reaction [entity] to penicillin was .	present
+140	Her electrocardiogram revealed normal sinus rhythm , [entity] left atrial enlargement [entity] , left axis deviation , poor R-wave progression in V1 through V4 , consistent with marked clockwise rotation , cannot rule out an old anteroseptal wall myocardial infarction .	present
+141	The air- fluid level in the right sphenoid sinus and [entity] bilateral opacification of the mastoid air cells [entity] are unchanged .	present
+142	sinus brady @ 48 bpm , LAD , [entity] LVH [entity] , RBBB , Q wave in I , ST depressions in V1-V4 , ST elevation in III , aVF , TWI in III , V5 .	present
+143	2. [entity] OBSTRUCTIVE UROPATHY [entity] , STATUS POST LEFT NEPHROSTOMY .	present
+144	[entity] Trivial mitral regurgitation [entity] is seen .	present
+145	HEENT : EOMI , PERRL , [entity] NC/AT [entity]	not-present
+146	If you experience [entity] clear drainage [entity] from your wounds , cover them with a clean dressing and stop showering until the drainage subsides for at least 2 days .	not-present
+147	VS were with stable BPs , [entity] tachy [entity] to 110-120 , sat 98% RA .	present
+148	He denied fevers , chills , nausea or vomiting , [entity] chest pain [entity] or diaphoresis .	not-present
+149	He was told to return to the emergency department if he had any chest pain , pressure , difficulty breathing , [entity] nausea [entity] , light-headiness or dizziness .	not-present
+150	However , he does require diuresis to prevent increased volume overload in his lungs from [entity] his hypoalbunemic state [entity] .	present
+151	Over the next 12 hours while in transit to the hospital , the patient &apos;s right lower extremity became [entity] red [entity] , swollen , and increasingly painful .	present
+152	Wound care consult given anasarca to prevent [entity] decub [entity] .	not-present
+153	Cardiovascular : Complained of [entity] chest pain [entity] during first few days of admission , a cardiology consult was obtained .	present
+154	Although the patient &apos;s pain and sedation meds were adjusted he continued to be [entity] agitated [entity] and there was difficulty weaning him off the vent .	present
+155	Foley removed on POD #2 and had [entity] scattered rales [entity] with temp 101.2 .	present
+156	11. [entity] C. difficile colitis [entity] treated with Flagyl ( completed 08-10 )	present
+157	An underlying mass lesion or [entity] cancer [entity] cannot be excluded in this area , and further clinical investigation is recommended .	not-present
+158	This unsteady gait progressed , and then she subsequently started to develop [entity] a pins and needle feeling in the face , hands and feet bilaterally [entity] .	present
+159	There is [entity] a linear right temporal calvarial fracture [entity] extending into the right temporal bones .	present
+160	2013-05-18 06:00 PM PT - 13.3 PTT - 26.4 INR(PT) - 1.2 EKG - NSR 64 , 1st deg block , [entity] LAD [entity] , new TWI inf/lat leads , new ST depressions V4-6	present
+161	In addition to her usual neuropathy pain , the pt initially appeared to have significant pain from [entity] the multi-focal PNA [entity] as well .	present
+162	1) [entity] Pneumonia [entity]	present
+163	Carotid pulsations are normal without [entity] bruit [entity] .	not-present
+164	Her heart rhythm is regular with a normal S1-S2 , and no [entity] murmur [entity] .	not-present
+165	Drinks 3-4 beers a few times weekly , no h/o [entity] withdrawal symptoms [entity] , seizures or DT s.	not-present
+166	So far no secondary causes of [entity] hypertension [entity] were identified but causes like lymphocytic ? chromocytoma or renal artery stenosis have not been ruled out yet .	present
+167	Discharge was delayed by one day to ensure patient could tolerate P.O. which patient did without [entity] difficulty [entity] .	not-present
+168	She was admitted to Cambridge Hospital 2018-05-24 with [entity] ARF [entity] ( Cr 3.5 up from 0.9 ) and SOB .	present
+169	The cardiac examination revealed [entity] anapical impulse in the fifth left intercostal space [entity] , left to mid clavicular line .	present
+170	The patient did not have chest pain until approximately 1-1/2 years ago , when he began to have [entity] chest tightness ( pressure ) [entity] approximately every three months with stress .	not-present
+171	70 y/o male with h/o [entity] CAD [entity] , T2DM , hyperlipidemia , and COPD who presented to the Juan on 2017-09-03 with worsening SOB x 5 days from Morton Hospital & Medical Center .	present
+172	Her risk factors for coronary artery disease included [entity] a positive family history [entity] and an elevated cholesterol level .	not-present
+173	The patient &apos;s sister has a history of [entity] cervical cancer [entity] .	not-present
+174	Responsible After Study for Causing Admission ) [entity] COPD exacerbation [entity] with NSTEMI	present
+175	[entity] Right occipital hemorrhagic stroke [entity] .	present
+176	Dermatology and plastic surgery were consulted who felt that symptoms were due to trauma ; it was not felt that patient had [entity] compartment syndrome [entity] .	not-present
+177	Diabetes ; [entity] hypertension [entity] ; hyperlipidemia .	present
+178	She was transferred to Arbour Hospital on 2015-02-21 for bowel obstruction , ischemia and [entity] worsening abdominal distention [entity] and pain .	present
+179	These findings were consistent with [entity] the cord compression [entity] .	present
+180	[entity] A left pleural effusion [entity] developed and this was tapped with ultrasound guidance , and found to be sterile , and without evidence of empyema .	present
+181	Sister with [entity] bone cancer [entity] .	not-present
+182	#. [entity] PE [entity] :	present
+183	The patient reports no [entity] masses in her neck [entity] .	not-present
+184	TTE at Erich Lindemann Mental Health Center 05-26 : [entity] mod-lg circumferential pericardial eff [entity] , no evidence of RV diastolic collapse , no MV inflow evidence of tamponade , pacer lead located in RV apex	present
+185	She also had an episode of nausea with some emesis , after being treated with Zofran with [entity] no relief [entity] , a nasogastric tube was placed which drained 1200 cc of bilious fluid .	present
+186	On physical examination she was [entity] afebrile [entity] with a blood pressure of 170/100 , heart rate of 70 .	not-present
+187	2) Cxray ( 06-14 ): [entity] New bibasilar consolidations [entity] are demonstrated accompanied by bilateral small pleural effusion .	present
+188	[entity] Crackles halfway up lung fields B/L [entity] .	present
+189	Per notes , pt denied SOB , [entity] CP [entity] , and abdominal pain prior to intubation .	not-present
+190	IVF pregnancy complicated by [entity] IUGR [entity] , 2 vessel cord , normal fetal echo reverse diastolic flow and demise of twin A at 27 weeks .	present
+191	He was to return to the hospital with any signs of shaking [entity] chills [entity] or fever .	not-present
+192	Abdomen : Soft , nontender , [entity] nondistended [entity] , good bowel sounds .	not-present
+193	Pt was seen by GI on 13 EGD was performed HD2 which was negative for [entity] gastritis [entity] , stricture or ulcer .	not-present
+194	It was unchanged in comparison to 2017-08-14 with similar ventricular function and [entity] inferior and inferolateral hypokinesis [entity] .	present
+195	He has two sisters , one with [entity] diabetes [entity] , and six brothers , one with diabetes .	not-present
+196	[entity] Mild ( 1+ ) mitral regurgitation [entity] is seen .	present
+197	82 F with h/o COPD , CAD , pafib and SSS s/p pacer on 05-08 for symptomatic pauses is transferred for large pericardial effusion ? needing drainage and [entity] CHF [entity] .	present
+198	Again seen was a slightly irregular contour of the liver with dilated hepatic veins suggesting [entity] chronic hepatic vascular congestion [entity] .	not-present
+199	2) Metastatic RCC : Sutent was held on admission in light of [entity] acute infection [entity] .	present
+200	She had a postoperative CT scan that revealed [entity] partial decompression of the spinal canal [entity] and good placement of her hardware .	present
