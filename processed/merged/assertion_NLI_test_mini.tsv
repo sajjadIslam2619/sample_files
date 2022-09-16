@@ -1,0 +1,301 @@
+	label	premise	hypothesis
+0	entailment	6. [entity] Hypercholesterolemia [entity] .	Hypercholesterolemia is present
+1	entailment	[entity] Perforated sigmoid diverticulum [entity] status post exploratory laparotomy	Perforated sigmoid diverticulum is present
+2	entailment	She was not [entity] orthostatic [entity] .	orthostatic is absent
+3	entailment	[entity] Dependent atelectasis [entity] is present within the visualized portions of the lung apices .	Dependent atelectasis is present
+4	entailment	Denies cough , shortness of breath , chest pain , nausea , vomiting , diarrhea , dysuria , neck stiffness , [entity] new skin lesions [entity] , worsening red petechiae , or increasing sinus symptoms .	new skin lesions is absent
+5	entailment	3. [entity] SPASTIC COLON [entity] .	SPASTIC COLON is present
+6	entailment	The patient underwent cardiac catheterization on 2011-10-17 which revealed a 20% left vein osteal lesion as well as [entity] 70% LAD lesion [entity] and an 80% right coronary .	70% LAD lesion is present
+7	entailment	Call the doctor or go to the emergency room with [entity] increased seizure frequency [entity] , unresponsiveness , new weakness or numbness , or any other concerning symptoms .	increased seizure frequency is hypothetical
+8	entailment	The patient &apos;s past cardiac history is significant for [entity] an anterior myocardial infarction [entity] in September of 1993 and a non-Q wave myocardial infarction in February of 1993 .	an anterior myocardial infarction is present
+9	entailment	Nonetheless , Mr. Less continued to remain critically ill with only very transient mild improvement with drainage of [entity] additional retroperitoneal fluid [entity] .	additional retroperitoneal fluid is present
+10	entailment	The patient is a 65-year-old man with refractory CLL , status post non-myeloblative stem cell transplant approximately nine months prior to admission , and status post prolonged recent Retelk County Medical Center stay for Acanthamoeba infection of skin and sinuses , complicated by ARS due to [entity] medication toxicity [entity] , as well as GVHD and recent CMV infection , readmitted for new fever , increasing creatinine , hepatomegaly and fluid surge spacing , in the setting of hyponatremia .	medication toxicity is present
+11	entailment	2. Metastatic disease in left arm , brachial plexus resulting in [entity] left arm paresis [entity] , as above	left arm paresis is present
+12	entailment	Dilantin 100 mg. po tid , Mylanta 30 cc. po q 4 hours prn , [entity] Dyspepsia [entity] , Milk of Magnesia 30 cc. po q 4 hours prn constipation , Cimetidine 400 mg. po bid , Haloperidol 1 mg. po or IM q 3 hours prn agitation .	Dyspepsia is hypothetical
+13	entailment	She has reported that she has had upper respiratory symptoms times several days with [entity] increasing dyspnea [entity] on exertion and shortness of breath , eventually at rest with marked wheezing .	increasing dyspnea is conditional
+14	entailment	The patient also has a history of hyperparathyroidism secondary to [entity] papillary thyroid cancer [entity] .	papillary thyroid cancer is present
+15	entailment	This was further complicated by hypocalcemia which resulted in [entity] mild electrocardiographic abnormalities [entity] .	mild electrocardiographic abnormalities is present
+16	entailment	[entity] Fever [entity] :	Fever is present
+17	entailment	1) [entity] atrial fibrillation [entity] on coumadin ,	atrial fibrillation is present
+18	entailment	Extremities were without clubbing , [entity] cyanosis [entity] or edema .	cyanosis is absent
+19	entailment	3. [entity] Cataract disease [entity]	Cataract disease is present
+20	entailment	CV : RRR 3/6 [entity] HSM [entity] , loudest at LUSB	HSM is present
+21	entailment	The patient had a large fluid requirement with total body capillary leak , [entity] decreasing SVR [entity] , oliguria unresponsive to Lasix / Mannitol accompanied by a rise in creatinine to 3.2 , worsening ARDS , a rise in temperature to 103 , and a serum amylase of 1265 .	decreasing SVR is present
+22	entailment	This is [entity] a chronic issue [entity] and was controlled with Flexeril and Vicodin .	a chronic issue is present
+23	entailment	She denies numbness or [entity] weakness [entity] in any part of the body .	weakness is absent
+24	entailment	Mr. Williams is an 85 yo gentleman who has a known cardiac history and has had a h/o [entity] worsening chest pain [entity] and shortness of breath .	worsening chest pain is present
+25	entailment	The patient was monitored for [entity] symptoms [entity] of Flolan therapy including nausea , vomiting , first bite jaw claudication , or hypotension .	symptoms is conditional
+26	entailment	There has been interval development of moderate amount of [entity] high-attenuation fluid [entity] within the effusion consistent with hemorrhage .	high-attenuation fluid is present
+27	entailment	[entity] HTN [entity]	HTN is present
+28	entailment	The patient was somnolent , breathing comfortably , [entity] occasionally coughing [entity] .	occasionally coughing is present
+29	entailment	This is an 83 y/o female with moderate AS , s/p MVR 27 years ago , s/p PPM , DM , CHF , p/w [entity] dsypnea [entity] and increased work of breathing x 4-5 days .	dsypnea is present
+30	entailment	At 5 hours of life he was noted to have [entity] grunting [entity] and flaring and E.C. Bovell consult was done .	grunting is present
+31	entailment	IN SUMMARY , the patient was considered to have [entity] severe necrotizing pancreatitis [entity] , with severe cardiac disease .	severe necrotizing pancreatitis is present
+32	entailment	The patient is a 78 y/o WF w/a PMH significant for HTN and afib who presented to an OSH w/ complaints of abd pain and [entity] nausea [entity] .	nausea is present
+33	entailment	The patient was readmitted on 5-21-91 with [entity] a falling hematocrit [entity] from 36 to 22 , mild congestive heart failure , and guaiac positive stool .	a falling hematocrit is present
+34	entailment	A progress note in the patient 's chart from her assisted living facility indicates that the patient has had shortness of breath and [entity] cough [entity] for one day with chills but no fever .	cough is present
+35	entailment	She should eventually have a tissue transglutaminase to rule out [entity] celiac disease [entity] .	celiac disease is possible
+36	entailment	Repeat CT was neg. for abcess or [entity] fascitis [entity] .	fascitis is absent
+37	entailment	The patient is a 74 year old female with [entity] metastatic papillary carcinoma of the thyroid [entity] who presented to the Fairm of Ijordcompmac Hospital on 4/28/93 with progressive weakness , weight loss and shortness of breath .	metastatic papillary carcinoma of the thyroid is present
+38	entailment	[entity] Severe anemia [entity]	Severe anemia is present
+39	entailment	Sensory exam showed some [entity] leftsided errors [entity] with pinprick and proprioception .	leftsided errors is present
+40	entailment	A chest x-ray revealed [entity] an enlarged mediastinum [entity] with clear lung fields bilaterally .	an enlarged mediastinum is present
+41	entailment	6. [entity] Moderate to severe [ 3+ ] tricuspid regurgitation [entity] is seen .	Moderate to severe [ 3+ ] tricuspid regurgitation is present
+42	entailment	Return to the hospital if you notice bleeding or [entity] any other symptoms [entity] of concern to you .	any other symptoms is hypothetical
+43	entailment	Urology was notified about [entity] the clots [entity] and occasional blood tinged urine but they did not make any further recommendations .	the clots is present
+44	entailment	Cardiac arrest - [entity] His arrest [entity] was of unknown etiology at the time of admission .	His arrest is present
+45	entailment	The patient is a pleasant , elderly female in no [entity] acute distress [entity] .	acute distress is absent
+46	entailment	He did have [entity] some blood loss anemia [entity] with a hematocrit of 20.9 .	some blood loss anemia is present
+47	entailment	As previously noted , there is [entity] associated volume loss [entity] , thinning of the corpus callosum , and slight widening of the ventricles .	associated volume loss is present
+48	entailment	He had complete loss of synthetic and conjugation function of the liver with rising bilirubin and falling albumin with [entity] dependence on transfusion [entity] for support of his prothrombin time .	dependence on transfusion is present
+49	entailment	Pt was diuresed with iv lasix / acetazolamide and given iv morphine / prn for [entity] respiratory distress [entity] and BIPAP was tried .	respiratory distress is present
+0	entailment	6. [entity] Hypercholesterolemia [entity] .	Hypercholesterolemia is absent
+1	entailment	6. [entity] Hypercholesterolemia [entity] .	Hypercholesterolemia is hypothetical
+2	entailment	6. [entity] Hypercholesterolemia [entity] .	Hypercholesterolemia is possible
+3	entailment	6. [entity] Hypercholesterolemia [entity] .	Hypercholesterolemia is conditional
+4	entailment	6. [entity] Hypercholesterolemia [entity] .	Hypercholesterolemia is associated_with_someone_else
+5	entailment	[entity] Perforated sigmoid diverticulum [entity] status post exploratory laparotomy	Perforated sigmoid diverticulum is absent
+6	entailment	[entity] Perforated sigmoid diverticulum [entity] status post exploratory laparotomy	Perforated sigmoid diverticulum is hypothetical
+7	entailment	[entity] Perforated sigmoid diverticulum [entity] status post exploratory laparotomy	Perforated sigmoid diverticulum is possible
+8	entailment	[entity] Perforated sigmoid diverticulum [entity] status post exploratory laparotomy	Perforated sigmoid diverticulum is conditional
+9	entailment	[entity] Perforated sigmoid diverticulum [entity] status post exploratory laparotomy	Perforated sigmoid diverticulum is associated_with_someone_else
+10	entailment	She was not [entity] orthostatic [entity] .	orthostatic is hypothetical
+11	entailment	She was not [entity] orthostatic [entity] .	orthostatic is present
+12	entailment	She was not [entity] orthostatic [entity] .	orthostatic is possible
+13	entailment	She was not [entity] orthostatic [entity] .	orthostatic is conditional
+14	entailment	She was not [entity] orthostatic [entity] .	orthostatic is associated_with_someone_else
+15	entailment	[entity] Dependent atelectasis [entity] is present within the visualized portions of the lung apices .	Dependent atelectasis is absent
+16	entailment	[entity] Dependent atelectasis [entity] is present within the visualized portions of the lung apices .	Dependent atelectasis is hypothetical
+17	entailment	[entity] Dependent atelectasis [entity] is present within the visualized portions of the lung apices .	Dependent atelectasis is possible
+18	entailment	[entity] Dependent atelectasis [entity] is present within the visualized portions of the lung apices .	Dependent atelectasis is conditional
+19	entailment	[entity] Dependent atelectasis [entity] is present within the visualized portions of the lung apices .	Dependent atelectasis is associated_with_someone_else
+20	entailment	Denies cough , shortness of breath , chest pain , nausea , vomiting , diarrhea , dysuria , neck stiffness , [entity] new skin lesions [entity] , worsening red petechiae , or increasing sinus symptoms .	new skin lesions is hypothetical
+21	entailment	Denies cough , shortness of breath , chest pain , nausea , vomiting , diarrhea , dysuria , neck stiffness , [entity] new skin lesions [entity] , worsening red petechiae , or increasing sinus symptoms .	new skin lesions is present
+22	entailment	Denies cough , shortness of breath , chest pain , nausea , vomiting , diarrhea , dysuria , neck stiffness , [entity] new skin lesions [entity] , worsening red petechiae , or increasing sinus symptoms .	new skin lesions is possible
+23	entailment	Denies cough , shortness of breath , chest pain , nausea , vomiting , diarrhea , dysuria , neck stiffness , [entity] new skin lesions [entity] , worsening red petechiae , or increasing sinus symptoms .	new skin lesions is conditional
+24	entailment	Denies cough , shortness of breath , chest pain , nausea , vomiting , diarrhea , dysuria , neck stiffness , [entity] new skin lesions [entity] , worsening red petechiae , or increasing sinus symptoms .	new skin lesions is associated_with_someone_else
+25	entailment	3. [entity] SPASTIC COLON [entity] .	SPASTIC COLON is absent
+26	entailment	3. [entity] SPASTIC COLON [entity] .	SPASTIC COLON is hypothetical
+27	entailment	3. [entity] SPASTIC COLON [entity] .	SPASTIC COLON is possible
+28	entailment	3. [entity] SPASTIC COLON [entity] .	SPASTIC COLON is conditional
+29	entailment	3. [entity] SPASTIC COLON [entity] .	SPASTIC COLON is associated_with_someone_else
+30	entailment	The patient underwent cardiac catheterization on 2011-10-17 which revealed a 20% left vein osteal lesion as well as [entity] 70% LAD lesion [entity] and an 80% right coronary .	70% LAD lesion is absent
+31	entailment	The patient underwent cardiac catheterization on 2011-10-17 which revealed a 20% left vein osteal lesion as well as [entity] 70% LAD lesion [entity] and an 80% right coronary .	70% LAD lesion is hypothetical
+32	entailment	The patient underwent cardiac catheterization on 2011-10-17 which revealed a 20% left vein osteal lesion as well as [entity] 70% LAD lesion [entity] and an 80% right coronary .	70% LAD lesion is possible
+33	entailment	The patient underwent cardiac catheterization on 2011-10-17 which revealed a 20% left vein osteal lesion as well as [entity] 70% LAD lesion [entity] and an 80% right coronary .	70% LAD lesion is conditional
+34	entailment	The patient underwent cardiac catheterization on 2011-10-17 which revealed a 20% left vein osteal lesion as well as [entity] 70% LAD lesion [entity] and an 80% right coronary .	70% LAD lesion is associated_with_someone_else
+35	entailment	Call the doctor or go to the emergency room with [entity] increased seizure frequency [entity] , unresponsiveness , new weakness or numbness , or any other concerning symptoms .	increased seizure frequency is absent
+36	entailment	Call the doctor or go to the emergency room with [entity] increased seizure frequency [entity] , unresponsiveness , new weakness or numbness , or any other concerning symptoms .	increased seizure frequency is present
+37	entailment	Call the doctor or go to the emergency room with [entity] increased seizure frequency [entity] , unresponsiveness , new weakness or numbness , or any other concerning symptoms .	increased seizure frequency is possible
+38	entailment	Call the doctor or go to the emergency room with [entity] increased seizure frequency [entity] , unresponsiveness , new weakness or numbness , or any other concerning symptoms .	increased seizure frequency is conditional
+39	entailment	Call the doctor or go to the emergency room with [entity] increased seizure frequency [entity] , unresponsiveness , new weakness or numbness , or any other concerning symptoms .	increased seizure frequency is associated_with_someone_else
+40	entailment	The patient &apos;s past cardiac history is significant for [entity] an anterior myocardial infarction [entity] in September of 1993 and a non-Q wave myocardial infarction in February of 1993 .	an anterior myocardial infarction is absent
+41	entailment	The patient &apos;s past cardiac history is significant for [entity] an anterior myocardial infarction [entity] in September of 1993 and a non-Q wave myocardial infarction in February of 1993 .	an anterior myocardial infarction is hypothetical
+42	entailment	The patient &apos;s past cardiac history is significant for [entity] an anterior myocardial infarction [entity] in September of 1993 and a non-Q wave myocardial infarction in February of 1993 .	an anterior myocardial infarction is possible
+43	entailment	The patient &apos;s past cardiac history is significant for [entity] an anterior myocardial infarction [entity] in September of 1993 and a non-Q wave myocardial infarction in February of 1993 .	an anterior myocardial infarction is conditional
+44	entailment	The patient &apos;s past cardiac history is significant for [entity] an anterior myocardial infarction [entity] in September of 1993 and a non-Q wave myocardial infarction in February of 1993 .	an anterior myocardial infarction is associated_with_someone_else
+45	entailment	Nonetheless , Mr. Less continued to remain critically ill with only very transient mild improvement with drainage of [entity] additional retroperitoneal fluid [entity] .	additional retroperitoneal fluid is absent
+46	entailment	Nonetheless , Mr. Less continued to remain critically ill with only very transient mild improvement with drainage of [entity] additional retroperitoneal fluid [entity] .	additional retroperitoneal fluid is hypothetical
+47	entailment	Nonetheless , Mr. Less continued to remain critically ill with only very transient mild improvement with drainage of [entity] additional retroperitoneal fluid [entity] .	additional retroperitoneal fluid is possible
+48	entailment	Nonetheless , Mr. Less continued to remain critically ill with only very transient mild improvement with drainage of [entity] additional retroperitoneal fluid [entity] .	additional retroperitoneal fluid is conditional
+49	entailment	Nonetheless , Mr. Less continued to remain critically ill with only very transient mild improvement with drainage of [entity] additional retroperitoneal fluid [entity] .	additional retroperitoneal fluid is associated_with_someone_else
+50	entailment	The patient is a 65-year-old man with refractory CLL , status post non-myeloblative stem cell transplant approximately nine months prior to admission , and status post prolonged recent Retelk County Medical Center stay for Acanthamoeba infection of skin and sinuses , complicated by ARS due to [entity] medication toxicity [entity] , as well as GVHD and recent CMV infection , readmitted for new fever , increasing creatinine , hepatomegaly and fluid surge spacing , in the setting of hyponatremia .	medication toxicity is absent
+51	entailment	The patient is a 65-year-old man with refractory CLL , status post non-myeloblative stem cell transplant approximately nine months prior to admission , and status post prolonged recent Retelk County Medical Center stay for Acanthamoeba infection of skin and sinuses , complicated by ARS due to [entity] medication toxicity [entity] , as well as GVHD and recent CMV infection , readmitted for new fever , increasing creatinine , hepatomegaly and fluid surge spacing , in the setting of hyponatremia .	medication toxicity is hypothetical
+52	entailment	The patient is a 65-year-old man with refractory CLL , status post non-myeloblative stem cell transplant approximately nine months prior to admission , and status post prolonged recent Retelk County Medical Center stay for Acanthamoeba infection of skin and sinuses , complicated by ARS due to [entity] medication toxicity [entity] , as well as GVHD and recent CMV infection , readmitted for new fever , increasing creatinine , hepatomegaly and fluid surge spacing , in the setting of hyponatremia .	medication toxicity is possible
+53	entailment	The patient is a 65-year-old man with refractory CLL , status post non-myeloblative stem cell transplant approximately nine months prior to admission , and status post prolonged recent Retelk County Medical Center stay for Acanthamoeba infection of skin and sinuses , complicated by ARS due to [entity] medication toxicity [entity] , as well as GVHD and recent CMV infection , readmitted for new fever , increasing creatinine , hepatomegaly and fluid surge spacing , in the setting of hyponatremia .	medication toxicity is conditional
+54	entailment	The patient is a 65-year-old man with refractory CLL , status post non-myeloblative stem cell transplant approximately nine months prior to admission , and status post prolonged recent Retelk County Medical Center stay for Acanthamoeba infection of skin and sinuses , complicated by ARS due to [entity] medication toxicity [entity] , as well as GVHD and recent CMV infection , readmitted for new fever , increasing creatinine , hepatomegaly and fluid surge spacing , in the setting of hyponatremia .	medication toxicity is associated_with_someone_else
+55	entailment	2. Metastatic disease in left arm , brachial plexus resulting in [entity] left arm paresis [entity] , as above	left arm paresis is absent
+56	entailment	2. Metastatic disease in left arm , brachial plexus resulting in [entity] left arm paresis [entity] , as above	left arm paresis is hypothetical
+57	entailment	2. Metastatic disease in left arm , brachial plexus resulting in [entity] left arm paresis [entity] , as above	left arm paresis is possible
+58	entailment	2. Metastatic disease in left arm , brachial plexus resulting in [entity] left arm paresis [entity] , as above	left arm paresis is conditional
+59	entailment	2. Metastatic disease in left arm , brachial plexus resulting in [entity] left arm paresis [entity] , as above	left arm paresis is associated_with_someone_else
+60	entailment	Dilantin 100 mg. po tid , Mylanta 30 cc. po q 4 hours prn , [entity] Dyspepsia [entity] , Milk of Magnesia 30 cc. po q 4 hours prn constipation , Cimetidine 400 mg. po bid , Haloperidol 1 mg. po or IM q 3 hours prn agitation .	Dyspepsia is absent
+61	entailment	Dilantin 100 mg. po tid , Mylanta 30 cc. po q 4 hours prn , [entity] Dyspepsia [entity] , Milk of Magnesia 30 cc. po q 4 hours prn constipation , Cimetidine 400 mg. po bid , Haloperidol 1 mg. po or IM q 3 hours prn agitation .	Dyspepsia is present
+62	entailment	Dilantin 100 mg. po tid , Mylanta 30 cc. po q 4 hours prn , [entity] Dyspepsia [entity] , Milk of Magnesia 30 cc. po q 4 hours prn constipation , Cimetidine 400 mg. po bid , Haloperidol 1 mg. po or IM q 3 hours prn agitation .	Dyspepsia is possible
+63	entailment	Dilantin 100 mg. po tid , Mylanta 30 cc. po q 4 hours prn , [entity] Dyspepsia [entity] , Milk of Magnesia 30 cc. po q 4 hours prn constipation , Cimetidine 400 mg. po bid , Haloperidol 1 mg. po or IM q 3 hours prn agitation .	Dyspepsia is conditional
+64	entailment	Dilantin 100 mg. po tid , Mylanta 30 cc. po q 4 hours prn , [entity] Dyspepsia [entity] , Milk of Magnesia 30 cc. po q 4 hours prn constipation , Cimetidine 400 mg. po bid , Haloperidol 1 mg. po or IM q 3 hours prn agitation .	Dyspepsia is associated_with_someone_else
+65	entailment	She has reported that she has had upper respiratory symptoms times several days with [entity] increasing dyspnea [entity] on exertion and shortness of breath , eventually at rest with marked wheezing .	increasing dyspnea is absent
+66	entailment	She has reported that she has had upper respiratory symptoms times several days with [entity] increasing dyspnea [entity] on exertion and shortness of breath , eventually at rest with marked wheezing .	increasing dyspnea is hypothetical
+67	entailment	She has reported that she has had upper respiratory symptoms times several days with [entity] increasing dyspnea [entity] on exertion and shortness of breath , eventually at rest with marked wheezing .	increasing dyspnea is present
+68	entailment	She has reported that she has had upper respiratory symptoms times several days with [entity] increasing dyspnea [entity] on exertion and shortness of breath , eventually at rest with marked wheezing .	increasing dyspnea is possible
+69	entailment	She has reported that she has had upper respiratory symptoms times several days with [entity] increasing dyspnea [entity] on exertion and shortness of breath , eventually at rest with marked wheezing .	increasing dyspnea is associated_with_someone_else
+70	entailment	The patient also has a history of hyperparathyroidism secondary to [entity] papillary thyroid cancer [entity] .	papillary thyroid cancer is absent
+71	entailment	The patient also has a history of hyperparathyroidism secondary to [entity] papillary thyroid cancer [entity] .	papillary thyroid cancer is hypothetical
+72	entailment	The patient also has a history of hyperparathyroidism secondary to [entity] papillary thyroid cancer [entity] .	papillary thyroid cancer is possible
+73	entailment	The patient also has a history of hyperparathyroidism secondary to [entity] papillary thyroid cancer [entity] .	papillary thyroid cancer is conditional
+74	entailment	The patient also has a history of hyperparathyroidism secondary to [entity] papillary thyroid cancer [entity] .	papillary thyroid cancer is associated_with_someone_else
+75	entailment	This was further complicated by hypocalcemia which resulted in [entity] mild electrocardiographic abnormalities [entity] .	mild electrocardiographic abnormalities is absent
+76	entailment	This was further complicated by hypocalcemia which resulted in [entity] mild electrocardiographic abnormalities [entity] .	mild electrocardiographic abnormalities is hypothetical
+77	entailment	This was further complicated by hypocalcemia which resulted in [entity] mild electrocardiographic abnormalities [entity] .	mild electrocardiographic abnormalities is possible
+78	entailment	This was further complicated by hypocalcemia which resulted in [entity] mild electrocardiographic abnormalities [entity] .	mild electrocardiographic abnormalities is conditional
+79	entailment	This was further complicated by hypocalcemia which resulted in [entity] mild electrocardiographic abnormalities [entity] .	mild electrocardiographic abnormalities is associated_with_someone_else
+80	entailment	[entity] Fever [entity] :	Fever is absent
+81	entailment	[entity] Fever [entity] :	Fever is hypothetical
+82	entailment	[entity] Fever [entity] :	Fever is possible
+83	entailment	[entity] Fever [entity] :	Fever is conditional
+84	entailment	[entity] Fever [entity] :	Fever is associated_with_someone_else
+85	entailment	1) [entity] atrial fibrillation [entity] on coumadin ,	atrial fibrillation is absent
+86	entailment	1) [entity] atrial fibrillation [entity] on coumadin ,	atrial fibrillation is hypothetical
+87	entailment	1) [entity] atrial fibrillation [entity] on coumadin ,	atrial fibrillation is possible
+88	entailment	1) [entity] atrial fibrillation [entity] on coumadin ,	atrial fibrillation is conditional
+89	entailment	1) [entity] atrial fibrillation [entity] on coumadin ,	atrial fibrillation is associated_with_someone_else
+90	entailment	Extremities were without clubbing , [entity] cyanosis [entity] or edema .	cyanosis is hypothetical
+91	entailment	Extremities were without clubbing , [entity] cyanosis [entity] or edema .	cyanosis is present
+92	entailment	Extremities were without clubbing , [entity] cyanosis [entity] or edema .	cyanosis is possible
+93	entailment	Extremities were without clubbing , [entity] cyanosis [entity] or edema .	cyanosis is conditional
+94	entailment	Extremities were without clubbing , [entity] cyanosis [entity] or edema .	cyanosis is associated_with_someone_else
+95	entailment	3. [entity] Cataract disease [entity]	Cataract disease is absent
+96	entailment	3. [entity] Cataract disease [entity]	Cataract disease is hypothetical
+97	entailment	3. [entity] Cataract disease [entity]	Cataract disease is possible
+98	entailment	3. [entity] Cataract disease [entity]	Cataract disease is conditional
+99	entailment	3. [entity] Cataract disease [entity]	Cataract disease is associated_with_someone_else
+100	entailment	CV : RRR 3/6 [entity] HSM [entity] , loudest at LUSB	HSM is absent
+101	entailment	CV : RRR 3/6 [entity] HSM [entity] , loudest at LUSB	HSM is hypothetical
+102	entailment	CV : RRR 3/6 [entity] HSM [entity] , loudest at LUSB	HSM is possible
+103	entailment	CV : RRR 3/6 [entity] HSM [entity] , loudest at LUSB	HSM is conditional
+104	entailment	CV : RRR 3/6 [entity] HSM [entity] , loudest at LUSB	HSM is associated_with_someone_else
+105	entailment	The patient had a large fluid requirement with total body capillary leak , [entity] decreasing SVR [entity] , oliguria unresponsive to Lasix / Mannitol accompanied by a rise in creatinine to 3.2 , worsening ARDS , a rise in temperature to 103 , and a serum amylase of 1265 .	decreasing SVR is absent
+106	entailment	The patient had a large fluid requirement with total body capillary leak , [entity] decreasing SVR [entity] , oliguria unresponsive to Lasix / Mannitol accompanied by a rise in creatinine to 3.2 , worsening ARDS , a rise in temperature to 103 , and a serum amylase of 1265 .	decreasing SVR is hypothetical
+107	entailment	The patient had a large fluid requirement with total body capillary leak , [entity] decreasing SVR [entity] , oliguria unresponsive to Lasix / Mannitol accompanied by a rise in creatinine to 3.2 , worsening ARDS , a rise in temperature to 103 , and a serum amylase of 1265 .	decreasing SVR is possible
+108	entailment	The patient had a large fluid requirement with total body capillary leak , [entity] decreasing SVR [entity] , oliguria unresponsive to Lasix / Mannitol accompanied by a rise in creatinine to 3.2 , worsening ARDS , a rise in temperature to 103 , and a serum amylase of 1265 .	decreasing SVR is conditional
+109	entailment	The patient had a large fluid requirement with total body capillary leak , [entity] decreasing SVR [entity] , oliguria unresponsive to Lasix / Mannitol accompanied by a rise in creatinine to 3.2 , worsening ARDS , a rise in temperature to 103 , and a serum amylase of 1265 .	decreasing SVR is associated_with_someone_else
+110	entailment	This is [entity] a chronic issue [entity] and was controlled with Flexeril and Vicodin .	a chronic issue is absent
+111	entailment	This is [entity] a chronic issue [entity] and was controlled with Flexeril and Vicodin .	a chronic issue is hypothetical
+112	entailment	This is [entity] a chronic issue [entity] and was controlled with Flexeril and Vicodin .	a chronic issue is possible
+113	entailment	This is [entity] a chronic issue [entity] and was controlled with Flexeril and Vicodin .	a chronic issue is conditional
+114	entailment	This is [entity] a chronic issue [entity] and was controlled with Flexeril and Vicodin .	a chronic issue is associated_with_someone_else
+115	entailment	She denies numbness or [entity] weakness [entity] in any part of the body .	weakness is hypothetical
+116	entailment	She denies numbness or [entity] weakness [entity] in any part of the body .	weakness is present
+117	entailment	She denies numbness or [entity] weakness [entity] in any part of the body .	weakness is possible
+118	entailment	She denies numbness or [entity] weakness [entity] in any part of the body .	weakness is conditional
+119	entailment	She denies numbness or [entity] weakness [entity] in any part of the body .	weakness is associated_with_someone_else
+120	entailment	Mr. Williams is an 85 yo gentleman who has a known cardiac history and has had a h/o [entity] worsening chest pain [entity] and shortness of breath .	worsening chest pain is absent
+121	entailment	Mr. Williams is an 85 yo gentleman who has a known cardiac history and has had a h/o [entity] worsening chest pain [entity] and shortness of breath .	worsening chest pain is hypothetical
+122	entailment	Mr. Williams is an 85 yo gentleman who has a known cardiac history and has had a h/o [entity] worsening chest pain [entity] and shortness of breath .	worsening chest pain is possible
+123	entailment	Mr. Williams is an 85 yo gentleman who has a known cardiac history and has had a h/o [entity] worsening chest pain [entity] and shortness of breath .	worsening chest pain is conditional
+124	entailment	Mr. Williams is an 85 yo gentleman who has a known cardiac history and has had a h/o [entity] worsening chest pain [entity] and shortness of breath .	worsening chest pain is associated_with_someone_else
+125	entailment	The patient was monitored for [entity] symptoms [entity] of Flolan therapy including nausea , vomiting , first bite jaw claudication , or hypotension .	symptoms is absent
+126	entailment	The patient was monitored for [entity] symptoms [entity] of Flolan therapy including nausea , vomiting , first bite jaw claudication , or hypotension .	symptoms is hypothetical
+127	entailment	The patient was monitored for [entity] symptoms [entity] of Flolan therapy including nausea , vomiting , first bite jaw claudication , or hypotension .	symptoms is present
+128	entailment	The patient was monitored for [entity] symptoms [entity] of Flolan therapy including nausea , vomiting , first bite jaw claudication , or hypotension .	symptoms is possible
+129	entailment	The patient was monitored for [entity] symptoms [entity] of Flolan therapy including nausea , vomiting , first bite jaw claudication , or hypotension .	symptoms is associated_with_someone_else
+130	entailment	There has been interval development of moderate amount of [entity] high-attenuation fluid [entity] within the effusion consistent with hemorrhage .	high-attenuation fluid is absent
+131	entailment	There has been interval development of moderate amount of [entity] high-attenuation fluid [entity] within the effusion consistent with hemorrhage .	high-attenuation fluid is hypothetical
+132	entailment	There has been interval development of moderate amount of [entity] high-attenuation fluid [entity] within the effusion consistent with hemorrhage .	high-attenuation fluid is possible
+133	entailment	There has been interval development of moderate amount of [entity] high-attenuation fluid [entity] within the effusion consistent with hemorrhage .	high-attenuation fluid is conditional
+134	entailment	There has been interval development of moderate amount of [entity] high-attenuation fluid [entity] within the effusion consistent with hemorrhage .	high-attenuation fluid is associated_with_someone_else
+135	entailment	[entity] HTN [entity]	HTN is absent
+136	entailment	[entity] HTN [entity]	HTN is hypothetical
+137	entailment	[entity] HTN [entity]	HTN is possible
+138	entailment	[entity] HTN [entity]	HTN is conditional
+139	entailment	[entity] HTN [entity]	HTN is associated_with_someone_else
+140	entailment	The patient was somnolent , breathing comfortably , [entity] occasionally coughing [entity] .	occasionally coughing is absent
+141	entailment	The patient was somnolent , breathing comfortably , [entity] occasionally coughing [entity] .	occasionally coughing is hypothetical
+142	entailment	The patient was somnolent , breathing comfortably , [entity] occasionally coughing [entity] .	occasionally coughing is possible
+143	entailment	The patient was somnolent , breathing comfortably , [entity] occasionally coughing [entity] .	occasionally coughing is conditional
+144	entailment	The patient was somnolent , breathing comfortably , [entity] occasionally coughing [entity] .	occasionally coughing is associated_with_someone_else
+145	entailment	This is an 83 y/o female with moderate AS , s/p MVR 27 years ago , s/p PPM , DM , CHF , p/w [entity] dsypnea [entity] and increased work of breathing x 4-5 days .	dsypnea is absent
+146	entailment	This is an 83 y/o female with moderate AS , s/p MVR 27 years ago , s/p PPM , DM , CHF , p/w [entity] dsypnea [entity] and increased work of breathing x 4-5 days .	dsypnea is hypothetical
+147	entailment	This is an 83 y/o female with moderate AS , s/p MVR 27 years ago , s/p PPM , DM , CHF , p/w [entity] dsypnea [entity] and increased work of breathing x 4-5 days .	dsypnea is possible
+148	entailment	This is an 83 y/o female with moderate AS , s/p MVR 27 years ago , s/p PPM , DM , CHF , p/w [entity] dsypnea [entity] and increased work of breathing x 4-5 days .	dsypnea is conditional
+149	entailment	This is an 83 y/o female with moderate AS , s/p MVR 27 years ago , s/p PPM , DM , CHF , p/w [entity] dsypnea [entity] and increased work of breathing x 4-5 days .	dsypnea is associated_with_someone_else
+150	entailment	At 5 hours of life he was noted to have [entity] grunting [entity] and flaring and E.C. Bovell consult was done .	grunting is absent
+151	entailment	At 5 hours of life he was noted to have [entity] grunting [entity] and flaring and E.C. Bovell consult was done .	grunting is hypothetical
+152	entailment	At 5 hours of life he was noted to have [entity] grunting [entity] and flaring and E.C. Bovell consult was done .	grunting is possible
+153	entailment	At 5 hours of life he was noted to have [entity] grunting [entity] and flaring and E.C. Bovell consult was done .	grunting is conditional
+154	entailment	At 5 hours of life he was noted to have [entity] grunting [entity] and flaring and E.C. Bovell consult was done .	grunting is associated_with_someone_else
+155	entailment	IN SUMMARY , the patient was considered to have [entity] severe necrotizing pancreatitis [entity] , with severe cardiac disease .	severe necrotizing pancreatitis is absent
+156	entailment	IN SUMMARY , the patient was considered to have [entity] severe necrotizing pancreatitis [entity] , with severe cardiac disease .	severe necrotizing pancreatitis is hypothetical
+157	entailment	IN SUMMARY , the patient was considered to have [entity] severe necrotizing pancreatitis [entity] , with severe cardiac disease .	severe necrotizing pancreatitis is possible
+158	entailment	IN SUMMARY , the patient was considered to have [entity] severe necrotizing pancreatitis [entity] , with severe cardiac disease .	severe necrotizing pancreatitis is conditional
+159	entailment	IN SUMMARY , the patient was considered to have [entity] severe necrotizing pancreatitis [entity] , with severe cardiac disease .	severe necrotizing pancreatitis is associated_with_someone_else
+160	entailment	The patient is a 78 y/o WF w/a PMH significant for HTN and afib who presented to an OSH w/ complaints of abd pain and [entity] nausea [entity] .	nausea is absent
+161	entailment	The patient is a 78 y/o WF w/a PMH significant for HTN and afib who presented to an OSH w/ complaints of abd pain and [entity] nausea [entity] .	nausea is hypothetical
+162	entailment	The patient is a 78 y/o WF w/a PMH significant for HTN and afib who presented to an OSH w/ complaints of abd pain and [entity] nausea [entity] .	nausea is possible
+163	entailment	The patient is a 78 y/o WF w/a PMH significant for HTN and afib who presented to an OSH w/ complaints of abd pain and [entity] nausea [entity] .	nausea is conditional
+164	entailment	The patient is a 78 y/o WF w/a PMH significant for HTN and afib who presented to an OSH w/ complaints of abd pain and [entity] nausea [entity] .	nausea is associated_with_someone_else
+165	entailment	The patient was readmitted on 5-21-91 with [entity] a falling hematocrit [entity] from 36 to 22 , mild congestive heart failure , and guaiac positive stool .	a falling hematocrit is absent
+166	entailment	The patient was readmitted on 5-21-91 with [entity] a falling hematocrit [entity] from 36 to 22 , mild congestive heart failure , and guaiac positive stool .	a falling hematocrit is hypothetical
+167	entailment	The patient was readmitted on 5-21-91 with [entity] a falling hematocrit [entity] from 36 to 22 , mild congestive heart failure , and guaiac positive stool .	a falling hematocrit is possible
+168	entailment	The patient was readmitted on 5-21-91 with [entity] a falling hematocrit [entity] from 36 to 22 , mild congestive heart failure , and guaiac positive stool .	a falling hematocrit is conditional
+169	entailment	The patient was readmitted on 5-21-91 with [entity] a falling hematocrit [entity] from 36 to 22 , mild congestive heart failure , and guaiac positive stool .	a falling hematocrit is associated_with_someone_else
+170	entailment	A progress note in the patient 's chart from her assisted living facility indicates that the patient has had shortness of breath and [entity] cough [entity] for one day with chills but no fever .	cough is absent
+171	entailment	A progress note in the patient 's chart from her assisted living facility indicates that the patient has had shortness of breath and [entity] cough [entity] for one day with chills but no fever .	cough is hypothetical
+172	entailment	A progress note in the patient 's chart from her assisted living facility indicates that the patient has had shortness of breath and [entity] cough [entity] for one day with chills but no fever .	cough is possible
+173	entailment	A progress note in the patient 's chart from her assisted living facility indicates that the patient has had shortness of breath and [entity] cough [entity] for one day with chills but no fever .	cough is conditional
+174	entailment	A progress note in the patient 's chart from her assisted living facility indicates that the patient has had shortness of breath and [entity] cough [entity] for one day with chills but no fever .	cough is associated_with_someone_else
+175	entailment	She should eventually have a tissue transglutaminase to rule out [entity] celiac disease [entity] .	celiac disease is absent
+176	entailment	She should eventually have a tissue transglutaminase to rule out [entity] celiac disease [entity] .	celiac disease is hypothetical
+177	entailment	She should eventually have a tissue transglutaminase to rule out [entity] celiac disease [entity] .	celiac disease is present
+178	entailment	She should eventually have a tissue transglutaminase to rule out [entity] celiac disease [entity] .	celiac disease is conditional
+179	entailment	She should eventually have a tissue transglutaminase to rule out [entity] celiac disease [entity] .	celiac disease is associated_with_someone_else
+180	entailment	Repeat CT was neg. for abcess or [entity] fascitis [entity] .	fascitis is hypothetical
+181	entailment	Repeat CT was neg. for abcess or [entity] fascitis [entity] .	fascitis is present
+182	entailment	Repeat CT was neg. for abcess or [entity] fascitis [entity] .	fascitis is possible
+183	entailment	Repeat CT was neg. for abcess or [entity] fascitis [entity] .	fascitis is conditional
+184	entailment	Repeat CT was neg. for abcess or [entity] fascitis [entity] .	fascitis is associated_with_someone_else
+185	entailment	The patient is a 74 year old female with [entity] metastatic papillary carcinoma of the thyroid [entity] who presented to the Fairm of Ijordcompmac Hospital on 4/28/93 with progressive weakness , weight loss and shortness of breath .	metastatic papillary carcinoma of the thyroid is absent
+186	entailment	The patient is a 74 year old female with [entity] metastatic papillary carcinoma of the thyroid [entity] who presented to the Fairm of Ijordcompmac Hospital on 4/28/93 with progressive weakness , weight loss and shortness of breath .	metastatic papillary carcinoma of the thyroid is hypothetical
+187	entailment	The patient is a 74 year old female with [entity] metastatic papillary carcinoma of the thyroid [entity] who presented to the Fairm of Ijordcompmac Hospital on 4/28/93 with progressive weakness , weight loss and shortness of breath .	metastatic papillary carcinoma of the thyroid is possible
+188	entailment	The patient is a 74 year old female with [entity] metastatic papillary carcinoma of the thyroid [entity] who presented to the Fairm of Ijordcompmac Hospital on 4/28/93 with progressive weakness , weight loss and shortness of breath .	metastatic papillary carcinoma of the thyroid is conditional
+189	entailment	The patient is a 74 year old female with [entity] metastatic papillary carcinoma of the thyroid [entity] who presented to the Fairm of Ijordcompmac Hospital on 4/28/93 with progressive weakness , weight loss and shortness of breath .	metastatic papillary carcinoma of the thyroid is associated_with_someone_else
+190	entailment	[entity] Severe anemia [entity]	Severe anemia is absent
+191	entailment	[entity] Severe anemia [entity]	Severe anemia is hypothetical
+192	entailment	[entity] Severe anemia [entity]	Severe anemia is possible
+193	entailment	[entity] Severe anemia [entity]	Severe anemia is conditional
+194	entailment	[entity] Severe anemia [entity]	Severe anemia is associated_with_someone_else
+195	entailment	Sensory exam showed some [entity] leftsided errors [entity] with pinprick and proprioception .	leftsided errors is absent
+196	entailment	Sensory exam showed some [entity] leftsided errors [entity] with pinprick and proprioception .	leftsided errors is hypothetical
+197	entailment	Sensory exam showed some [entity] leftsided errors [entity] with pinprick and proprioception .	leftsided errors is possible
+198	entailment	Sensory exam showed some [entity] leftsided errors [entity] with pinprick and proprioception .	leftsided errors is conditional
+199	entailment	Sensory exam showed some [entity] leftsided errors [entity] with pinprick and proprioception .	leftsided errors is associated_with_someone_else
+200	entailment	A chest x-ray revealed [entity] an enlarged mediastinum [entity] with clear lung fields bilaterally .	an enlarged mediastinum is absent
+201	entailment	A chest x-ray revealed [entity] an enlarged mediastinum [entity] with clear lung fields bilaterally .	an enlarged mediastinum is hypothetical
+202	entailment	A chest x-ray revealed [entity] an enlarged mediastinum [entity] with clear lung fields bilaterally .	an enlarged mediastinum is possible
+203	entailment	A chest x-ray revealed [entity] an enlarged mediastinum [entity] with clear lung fields bilaterally .	an enlarged mediastinum is conditional
+204	entailment	A chest x-ray revealed [entity] an enlarged mediastinum [entity] with clear lung fields bilaterally .	an enlarged mediastinum is associated_with_someone_else
+205	entailment	6. [entity] Moderate to severe [ 3+ ] tricuspid regurgitation [entity] is seen .	Moderate to severe [ 3+ ] tricuspid regurgitation is absent
+206	entailment	6. [entity] Moderate to severe [ 3+ ] tricuspid regurgitation [entity] is seen .	Moderate to severe [ 3+ ] tricuspid regurgitation is hypothetical
+207	entailment	6. [entity] Moderate to severe [ 3+ ] tricuspid regurgitation [entity] is seen .	Moderate to severe [ 3+ ] tricuspid regurgitation is possible
+208	entailment	6. [entity] Moderate to severe [ 3+ ] tricuspid regurgitation [entity] is seen .	Moderate to severe [ 3+ ] tricuspid regurgitation is conditional
+209	entailment	6. [entity] Moderate to severe [ 3+ ] tricuspid regurgitation [entity] is seen .	Moderate to severe [ 3+ ] tricuspid regurgitation is associated_with_someone_else
+210	entailment	Return to the hospital if you notice bleeding or [entity] any other symptoms [entity] of concern to you .	any other symptoms is absent
+211	entailment	Return to the hospital if you notice bleeding or [entity] any other symptoms [entity] of concern to you .	any other symptoms is present
+212	entailment	Return to the hospital if you notice bleeding or [entity] any other symptoms [entity] of concern to you .	any other symptoms is possible
+213	entailment	Return to the hospital if you notice bleeding or [entity] any other symptoms [entity] of concern to you .	any other symptoms is conditional
+214	entailment	Return to the hospital if you notice bleeding or [entity] any other symptoms [entity] of concern to you .	any other symptoms is associated_with_someone_else
+215	entailment	Urology was notified about [entity] the clots [entity] and occasional blood tinged urine but they did not make any further recommendations .	the clots is absent
+216	entailment	Urology was notified about [entity] the clots [entity] and occasional blood tinged urine but they did not make any further recommendations .	the clots is hypothetical
+217	entailment	Urology was notified about [entity] the clots [entity] and occasional blood tinged urine but they did not make any further recommendations .	the clots is possible
+218	entailment	Urology was notified about [entity] the clots [entity] and occasional blood tinged urine but they did not make any further recommendations .	the clots is conditional
+219	entailment	Urology was notified about [entity] the clots [entity] and occasional blood tinged urine but they did not make any further recommendations .	the clots is associated_with_someone_else
+220	entailment	Cardiac arrest - [entity] His arrest [entity] was of unknown etiology at the time of admission .	His arrest is absent
+221	entailment	Cardiac arrest - [entity] His arrest [entity] was of unknown etiology at the time of admission .	His arrest is hypothetical
+222	entailment	Cardiac arrest - [entity] His arrest [entity] was of unknown etiology at the time of admission .	His arrest is possible
+223	entailment	Cardiac arrest - [entity] His arrest [entity] was of unknown etiology at the time of admission .	His arrest is conditional
+224	entailment	Cardiac arrest - [entity] His arrest [entity] was of unknown etiology at the time of admission .	His arrest is associated_with_someone_else
+225	entailment	The patient is a pleasant , elderly female in no [entity] acute distress [entity] .	acute distress is hypothetical
+226	entailment	The patient is a pleasant , elderly female in no [entity] acute distress [entity] .	acute distress is present
+227	entailment	The patient is a pleasant , elderly female in no [entity] acute distress [entity] .	acute distress is possible
+228	entailment	The patient is a pleasant , elderly female in no [entity] acute distress [entity] .	acute distress is conditional
+229	entailment	The patient is a pleasant , elderly female in no [entity] acute distress [entity] .	acute distress is associated_with_someone_else
+230	entailment	He did have [entity] some blood loss anemia [entity] with a hematocrit of 20.9 .	some blood loss anemia is absent
+231	entailment	He did have [entity] some blood loss anemia [entity] with a hematocrit of 20.9 .	some blood loss anemia is hypothetical
+232	entailment	He did have [entity] some blood loss anemia [entity] with a hematocrit of 20.9 .	some blood loss anemia is possible
+233	entailment	He did have [entity] some blood loss anemia [entity] with a hematocrit of 20.9 .	some blood loss anemia is conditional
+234	entailment	He did have [entity] some blood loss anemia [entity] with a hematocrit of 20.9 .	some blood loss anemia is associated_with_someone_else
+235	entailment	As previously noted , there is [entity] associated volume loss [entity] , thinning of the corpus callosum , and slight widening of the ventricles .	associated volume loss is absent
+236	entailment	As previously noted , there is [entity] associated volume loss [entity] , thinning of the corpus callosum , and slight widening of the ventricles .	associated volume loss is hypothetical
+237	entailment	As previously noted , there is [entity] associated volume loss [entity] , thinning of the corpus callosum , and slight widening of the ventricles .	associated volume loss is possible
+238	entailment	As previously noted , there is [entity] associated volume loss [entity] , thinning of the corpus callosum , and slight widening of the ventricles .	associated volume loss is conditional
+239	entailment	As previously noted , there is [entity] associated volume loss [entity] , thinning of the corpus callosum , and slight widening of the ventricles .	associated volume loss is associated_with_someone_else
+240	entailment	He had complete loss of synthetic and conjugation function of the liver with rising bilirubin and falling albumin with [entity] dependence on transfusion [entity] for support of his prothrombin time .	dependence on transfusion is absent
+241	entailment	He had complete loss of synthetic and conjugation function of the liver with rising bilirubin and falling albumin with [entity] dependence on transfusion [entity] for support of his prothrombin time .	dependence on transfusion is hypothetical
+242	entailment	He had complete loss of synthetic and conjugation function of the liver with rising bilirubin and falling albumin with [entity] dependence on transfusion [entity] for support of his prothrombin time .	dependence on transfusion is possible
+243	entailment	He had complete loss of synthetic and conjugation function of the liver with rising bilirubin and falling albumin with [entity] dependence on transfusion [entity] for support of his prothrombin time .	dependence on transfusion is conditional
+244	entailment	He had complete loss of synthetic and conjugation function of the liver with rising bilirubin and falling albumin with [entity] dependence on transfusion [entity] for support of his prothrombin time .	dependence on transfusion is associated_with_someone_else
+245	entailment	Pt was diuresed with iv lasix / acetazolamide and given iv morphine / prn for [entity] respiratory distress [entity] and BIPAP was tried .	respiratory distress is absent
+246	entailment	Pt was diuresed with iv lasix / acetazolamide and given iv morphine / prn for [entity] respiratory distress [entity] and BIPAP was tried .	respiratory distress is hypothetical
+247	entailment	Pt was diuresed with iv lasix / acetazolamide and given iv morphine / prn for [entity] respiratory distress [entity] and BIPAP was tried .	respiratory distress is possible
+248	entailment	Pt was diuresed with iv lasix / acetazolamide and given iv morphine / prn for [entity] respiratory distress [entity] and BIPAP was tried .	respiratory distress is conditional
+249	entailment	Pt was diuresed with iv lasix / acetazolamide and given iv morphine / prn for [entity] respiratory distress [entity] and BIPAP was tried .	respiratory distress is associated_with_someone_else
